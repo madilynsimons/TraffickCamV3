@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Owner\\.android\\build-cache\\bed1862d16e6747352b3568c6ac31dcef0960571\\output\\res\\values-w820dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 57,
+                        "endOffset": 257
+                    }
+                }
+            }
+        ]
+    }
+]

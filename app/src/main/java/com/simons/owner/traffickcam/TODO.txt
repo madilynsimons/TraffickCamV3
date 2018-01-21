@@ -1,0 +1,31 @@
+TODO:
+
+General:
+-Rename Activities to make more sense
+-Rename package to make more sense
+-Separate Version 1 and Version 2
+-Update both versions
+-Clean gradle
+-Delete random git repos to make sure gradle works properly
+
+MainActivity:
+-Eventually delete this and have the app start
+ up on TraffickCamFotoActivity
+
+TraffickCamFotoActivity:
+-Rename this
+-Find a replacement for Toast
+-Save photo to correct file path
+-Make permissions manditory and user-friendly
+
+HotelListActivity:
+-Rename this
+-Properly comment code
+-Clean code
+-Parse googleHotels and send correct info to HotelInfoActivity
+-Make location permissions manditory and user-friendly
+-Rewrite patches of code that are difficult to read
+
+HotelInfoActivity
+-Take googleHotels info
+-Design good format and use info to fill

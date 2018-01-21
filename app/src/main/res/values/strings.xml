@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TraffickCam</string>
+    <string name="default_hotel">Hotel</string>
+    <string name="default_room">Room Number</string>
+    <string name="take_photo_help">Touch anywhere on screen to take picture</string>
+    <string name="camera_not_found">No camera harware found</string>
+    <string name="title_activity_traffick_camera">TraffickCameraActivity</string>
+    <string name="invalid_hotel_input">Please enter a valid hotel and room number</string>
+    <string name="title_activity_exit">ExitActivity</string>
+    <string name="exit_message">Thank you for using TraffickCam!</string>
+    <string name="take_pic_message">Take a picture of a </string>
+</resources>

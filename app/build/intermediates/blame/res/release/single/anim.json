@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]

@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- TODO, the Y value is a bit off... play with that at some point -->
+    <dimen name="map_dx">10dp</dimen>
+    <dimen name="map_dy">-100dp</dimen>
+</resources>
