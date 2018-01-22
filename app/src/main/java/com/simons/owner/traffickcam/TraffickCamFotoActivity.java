@@ -3,14 +3,27 @@ package com.simons.owner.traffickcam;
 import android.Manifest;
 import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.graphics.Color;
+import android.graphics.drawable.BitmapDrawable;
 import android.os.Bundle;
+import android.os.Environment;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.Toast;
 
+import java.io.ByteArrayOutputStream;
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.RandomAccessFile;
+import java.nio.MappedByteBuffer;
+import java.nio.channels.FileChannel;
 import java.util.Arrays;
 import java.util.List;
 import java.util.ListIterator;
@@ -62,10 +75,16 @@ public class TraffickCamFotoActivity extends AppCompatActivity {
     // holds a copy of the current subject
     protected String currentSubject;
 
+    protected ImageView stencilView;
+
+    protected Bitmap bitmaps[];
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(com.simons.owner.traffickcam.R.layout.activity_traffick_cam_foto);
+
+        stencilView = (ImageView) findViewById(com.simons.owner.traffickcam.R.id.imageView);
 
         // TODO -- Camera permission is absolutely necessary to proceed
         // make sure that the app actually has permission to use the camera
@@ -77,7 +96,9 @@ public class TraffickCamFotoActivity extends AppCompatActivity {
 
         fotoapparat = initFotoapparat();
 
+        makeBitmaps();
         printNextInstruction();
+        makeStencil();
     }
 
     @Override
@@ -153,7 +174,7 @@ public class TraffickCamFotoActivity extends AppCompatActivity {
     /**
      *  takePictureOnClick will take a picture whenever the user touches the screen
      *  As of right now, the photo taken saves to a generic file path
-     *  TODO -- save photo to corect file path
+     *  TODO -- save photo to correct file path
      *  If there are more subjects left to be iterated through, the next instruction is printed
      */
     public void takePictureOnClick(View view)
@@ -169,7 +190,10 @@ public class TraffickCamFotoActivity extends AppCompatActivity {
                 .whenAvailable(new PendingResult.Callback<BitmapPhoto>() {
                     @Override
                     public void onResult(BitmapPhoto result) {
-                        if(subjects.hasNext()) printNextInstruction();
+                        if(subjects.hasNext()){
+                            printNextInstruction();
+                            makeStencil();
+                        }
                     }
                 });
         if(subjects.hasNext() == false) exit();
@@ -183,6 +207,64 @@ public class TraffickCamFotoActivity extends AppCompatActivity {
         String path = getExternalFilesDir("photos") + "/" + currentSubject + ".jpg";
         File photoFile = new File(path);
         photoResult.saveToFile(photoFile);
+    }
+
+    protected void makeBitmaps()
+    {
+        int length = s.size();
+        // get .bmp files
+        bitmaps = new Bitmap[length];
+        bitmaps[0] = BitmapFactory.decodeResource(getResources(), R.drawable.pikachu);
+        bitmaps[1] = BitmapFactory.decodeResource(getResources(), R.drawable.charmander);
+        bitmaps[2] = BitmapFactory.decodeResource(getResources(), R.drawable.squirtle);
+        bitmaps[3] = BitmapFactory.decodeResource(getResources(), R.drawable.charmander);
+
+        for(int i = 0; i < length; i++)
+        {
+            // make the bitmap mutable
+            bitmaps[i] = bitmaps[i].copy(Bitmap.Config.ARGB_8888, true);
+
+            int width = bitmaps[i].getWidth();
+            int height = bitmaps[i].getHeight();
+
+            int [] allpixels = new int [height * width];
+
+            bitmaps[i].getPixels(allpixels, 0, width, 0, 0, width, height);
+
+            for(int j = 0; j < allpixels.length; j++)
+            {
+                if(allpixels[j] == Color.WHITE)
+                {
+                    allpixels[j] = Color.TRANSPARENT;
+                }
+            }
+
+            bitmaps[i].setPixels(allpixels,0,width,0, 0, width, height);
+            bitmaps[i].setHasAlpha(true);
+        }
+
+    }
+
+    // makes and displays stencil
+    protected void makeStencil()
+    {
+        Bitmap bm = null;
+        switch(currentSubject)
+        {
+            case "window":
+                bm = bitmaps[0];
+                break;
+            case "bed":
+                bm = bitmaps[1];
+                break;
+            case "TV":
+                bm = bitmaps[2];
+                break;
+            case "bathroom":
+                bm = bitmaps[3];
+                break;
+        }
+        stencilView.setImageBitmap(bm);
     }
 
     // Changes to next activity

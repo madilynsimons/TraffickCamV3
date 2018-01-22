@@ -4,20 +4,32 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\f53a7a5b13189e539c5bc38735a6cc4ae4107d2d\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
@@ -36,12 +48,24 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mic.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\2f124a27c5a4264d07a0de4c21d4363628c35fbc\\output\\res\\drawable-hdpi-v4\\ic_mic.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
@@ -52,28 +76,44 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
@@ -92,6 +132,10 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\fee3d190c3eae43d89339091e8eb22dcb22a68d9\\output\\res\\drawable-hdpi-v4\\powered_by_google_light.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
@@ -104,16 +148,24 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\f53a7a5b13189e539c5bc38735a6cc4ae4107d2d\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
@@ -122,6 +174,14 @@
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\f53a7a5b13189e539c5bc38735a6cc4ae4107d2d\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
@@ -140,6 +200,14 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_place_marker.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\bed1862d16e6747352b3568c6ac31dcef0960571\\output\\res\\drawable-hdpi-v4\\ic_place_marker.png"
     },
@@ -150,6 +218,10 @@
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
@@ -184,12 +256,28 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search.png",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2f124a27c5a4264d07a0de4c21d4363628c35fbc\\output\\res\\drawable-hdpi-v4\\ic_search.png"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2f124a27c5a4264d07a0de4c21d4363628c35fbc\\output\\res\\drawable-hdpi-v4\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
@@ -206,6 +294,10 @@
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\f53a7a5b13189e539c5bc38735a6cc4ae4107d2d\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
@@ -228,6 +320,10 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
@@ -246,6 +342,10 @@
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
@@ -268,6 +368,10 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clean.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\2f124a27c5a4264d07a0de4c21d4363628c35fbc\\output\\res\\drawable-hdpi-v4\\ic_clean.png"
     },
@@ -278,6 +382,14 @@
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\f53a7a5b13189e539c5bc38735a6cc4ae4107d2d\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\f53a7a5b13189e539c5bc38735a6cc4ae4107d2d\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
@@ -300,6 +412,10 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
@@ -308,16 +424,20 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_search.png",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\db786a399ff9e733f409e7cd5de0350826300009\\output\\res\\drawable-hdpi-v4\\places_ic_search.png"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_search.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\db786a399ff9e733f409e7cd5de0350826300009\\output\\res\\drawable-hdpi-v4\\places_ic_search.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
@@ -364,6 +484,10 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
@@ -388,6 +512,10 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
@@ -396,8 +524,16 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\f53a7a5b13189e539c5bc38735a6cc4ae4107d2d\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_gps_lime.png",
@@ -406,6 +542,14 @@
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_standard_color_18.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\10135934cdb99a2863492ef92de6858a5cd1712b\\output\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\f53a7a5b13189e539c5bc38735a6cc4ae4107d2d\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
@@ -418,6 +562,14 @@
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\f53a7a5b13189e539c5bc38735a6cc4ae4107d2d\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_check_light.png",
@@ -444,6 +596,10 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
@@ -458,6 +614,10 @@
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
@@ -488,6 +648,10 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
@@ -498,6 +662,10 @@
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\f53a7a5b13189e539c5bc38735a6cc4ae4107d2d\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
@@ -528,6 +696,10 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\f53a7a5b13189e539c5bc38735a6cc4ae4107d2d\\output\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
     },
@@ -554,6 +726,10 @@
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_dark.png",
@@ -584,6 +760,10 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
@@ -604,8 +784,16 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\f53a7a5b13189e539c5bc38735a6cc4ae4107d2d\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
@@ -620,8 +808,24 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\f53a7a5b13189e539c5bc38735a6cc4ae4107d2d\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
@@ -652,6 +856,10 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\f53a7a5b13189e539c5bc38735a6cc4ae4107d2d\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\10135934cdb99a2863492ef92de6858a5cd1712b\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
@@ -670,6 +878,10 @@
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\f53a7a5b13189e539c5bc38735a6cc4ae4107d2d\\output\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_search.png",
@@ -708,12 +920,20 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
@@ -726,6 +946,10 @@
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
@@ -744,6 +968,10 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_ic_googleplayservices.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_ic_googleplayservices.png"
     },
@@ -752,12 +980,20 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\8a2cddca0fa5c708e123b5fc146024c31775d31a\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
@@ -772,12 +1008,40 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\f53a7a5b13189e539c5bc38735a6cc4ae4107d2d\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\f53a7a5b13189e539c5bc38735a6cc4ae4107d2d\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
@@ -786,5 +1050,9 @@
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     }
 ]

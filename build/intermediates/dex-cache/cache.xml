@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\db786a399ff9e733f409e7cd5de0350826300009\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Owner\Documents\Projects\AndroidStudioProjects\TraffickCam\app\build\intermediates\pre-dexed\debug\classes_df168e2a989f5fe4188d1cd2c6c1b1dd1179b5e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\6d75fe332450eb861f57e78c65fd36208006eabd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Owner\Documents\Projects\AndroidStudioProjects\TraffickCam\app\build\intermediates\pre-dexed\debug\classes_7c00851564f40ce6711c7ebd39db023873c7e5f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\9e00609d77bdf5d01d6ca505c1d057bd728ed7ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ee75c1887d29a3516a6274a59f9ca32e40706ab4">
+        <dex dex="C:\Users\Owner\Documents\Projects\AndroidStudioProjects\TraffickCam\app\build\intermediates\pre-dexed\debug\classes_422b9726e7652e479afb9efb0ba345d204856e07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Users\Owner\Documents\Projects\AndroidStudioProjects\TraffickCam\app\build\intermediates\pre-dexed\debug\gson-2.8.2_d249e4f14e059f5c0f7d33755629ec22784a5658.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\5191046dcaaba8a19022ca49567e330125394bc2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Owner\Documents\Projects\AndroidStudioProjects\TraffickCam\app\build\intermediates\pre-dexed\debug\classes_e7f07eca998e96c7c8749ae313362723423cc4b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\f53a7a5b13189e539c5bc38735a6cc4ae4107d2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Owner\Documents\Projects\AndroidStudioProjects\TraffickCam\app\build\intermediates\pre-dexed\debug\classes_a8fafaa59970ff90a4c29b1ffcb5bea6f3989854.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\e5d6bb8696dbb58776957232838c1cc053492f90\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Owner\Documents\Projects\AndroidStudioProjects\TraffickCam\app\build\intermediates\pre-dexed\debug\classes_241aef2fe818d7ab94f1acf2a3418465cb5a77f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\b0a90d91775e9fbc3c8f9c0a84c854da94a22cd3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Owner\Documents\Projects\AndroidStudioProjects\TraffickCam\app\build\intermediates\pre-dexed\debug\classes_4c9913c983bbb716ecf1acc245c668104d05e4e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\83d1f05883a30279f30813cbe2059578179bda6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="C:\Users\Owner\Documents\Projects\AndroidStudioProjects\TraffickCam\app\build\intermediates\pre-dexed\debug\classes_6a81731d4da58948994903970a0db7290cb43d90.jar" />
+    </item>
+
+</items>

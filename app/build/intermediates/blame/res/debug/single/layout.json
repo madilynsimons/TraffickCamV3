@@ -4,20 +4,24 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\fee3d190c3eae43d89339091e8eb22dcb22a68d9\\output\\res\\layout\\place_autocomplete_fragment.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
@@ -28,16 +32,396 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_confirm_hotel.xml",
+        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\src\\main\\res\\layout\\activity_confirm_hotel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_text_bubble.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\83d1f05883a30279f30813cbe2059578179bda6e\\output\\res\\layout\\amu_text_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_webview.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\83d1f05883a30279f30813cbe2059578179bda6e\\output\\res\\layout\\amu_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_traffick_cam_foto.xml",
+        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\src\\main\\res\\layout\\activity_traffick_cam_foto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_info_window.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\83d1f05883a30279f30813cbe2059578179bda6e\\output\\res\\layout\\amu_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\db786a399ff9e733f409e7cd5de0350826300009\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_camera2_basic.xml",
+        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\src\\main\\res\\layout\\fragment_camera2_basic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hotel_list.xml",
+        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\src\\main\\res\\layout\\activity_hotel_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exit.xml",
+        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\src\\main\\res\\layout\\activity_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hotel_list.xml",
+        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\src\\main\\res\\layout\\activity_hotel_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_place_picker.xml",
+        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\src\\main\\res\\layout\\activity_place_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recent_searches.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\bed1862d16e6747352b3568c6ac31dcef0960571\\output\\res\\layout\\activity_recent_searches.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_search.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2f124a27c5a4264d07a0de4c21d4363628c35fbc\\output\\res\\layout\\toolbar_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_traffick_cam_foto.xml",
+        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\src\\main\\res\\layout\\activity_traffick_cam_foto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hotel_info.xml",
+        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\src\\main\\res\\layout\\activity_hotel_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hotel_info.xml",
+        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\src\\main\\res\\layout\\activity_hotel_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\db786a399ff9e733f409e7cd5de0350826300009\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_info_window.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\83d1f05883a30279f30813cbe2059578179bda6e\\output\\res\\layout\\amu_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\fee3d190c3eae43d89339091e8eb22dcb22a68d9\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_action.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -56,7 +440,15 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\bed1862d16e6747352b3568c6ac31dcef0960571\\output\\res\\layout\\test.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_menu.xml"
     },
     {
@@ -68,6 +460,10 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
@@ -76,16 +472,8 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_custom_big.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_media_custom.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
@@ -96,28 +484,16 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_text_bubble.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\83d1f05883a30279f30813cbe2059578179bda6e\\output\\res\\layout\\amu_text_bubble.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_text_bubble.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\83d1f05883a30279f30813cbe2059578179bda6e\\output\\res\\layout\\amu_text_bubble.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_confirm_hotel.xml",
-        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\src\\main\\res\\layout\\activity_confirm_hotel.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
@@ -136,14 +512,6 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_item.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
@@ -152,16 +520,12 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_webview.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\83d1f05883a30279f30813cbe2059578179bda6e\\output\\res\\layout\\amu_webview.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_coordinates.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\2f124a27c5a4264d07a0de4c21d4363628c35fbc\\output\\res\\layout\\layout_coordinates.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_traffick_cam_foto.xml",
-        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\src\\main\\res\\layout\\activity_traffick_cam_foto.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
@@ -176,43 +540,31 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\db786a399ff9e733f409e7cd5de0350826300009\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_info_window.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\83d1f05883a30279f30813cbe2059578179bda6e\\output\\res\\layout\\amu_info_window.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\db786a399ff9e733f409e7cd5de0350826300009\\output\\res\\layout\\place_autocomplete_fragment.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_action.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_camera2_basic.xml",
-        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\src\\main\\res\\layout\\fragment_camera2_basic.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hotel_list.xml",
-        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\src\\main\\res\\layout\\activity_hotel_list.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_text_input_password_icon.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
@@ -244,8 +596,8 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_layout_tab_text.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_layout_tab_text.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
@@ -260,16 +612,12 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\fee3d190c3eae43d89339091e8eb22dcb22a68d9\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_traffick_cam_foto.xml",
+        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\src\\main\\res\\layout\\activity_traffick_cam_foto.xml"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
@@ -280,20 +628,16 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\fee3d190c3eae43d89339091e8eb22dcb22a68d9\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_row.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\bed1862d16e6747352b3568c6ac31dcef0960571\\output\\res\\layout\\listview_row.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_screen_simple.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
@@ -316,28 +660,16 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_place_picker.xml",
-        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\src\\main\\res\\layout\\activity_place_picker.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_menu_item_action_area.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_item_header.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
@@ -348,48 +680,12 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_layout_tab_icon.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_layout_tab_text.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recent_searches.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\bed1862d16e6747352b3568c6ac31dcef0960571\\output\\res\\layout\\activity_recent_searches.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_address.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\2f124a27c5a4264d07a0de4c21d4363628c35fbc\\output\\res\\layout\\layout_address.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_item_subheader.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_search.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2f124a27c5a4264d07a0de4c21d4363628c35fbc\\output\\res\\layout\\toolbar_search.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
@@ -400,32 +696,20 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_traffick_cam_foto.xml",
-        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\src\\main\\res\\layout\\activity_traffick_cam_foto.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_search_dialog.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9e00609d77bdf5d01d6ca505c1d057bd728ed7ef\\output\\res\\layout\\place_search_dialog.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
@@ -436,8 +720,8 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_screen_simple.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_text_input_password_icon.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_link_row.xml",
@@ -448,10 +732,6 @@
         "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\src\\main\\res\\layout\\activity_exit.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_search_view.xml"
     },
@@ -460,36 +740,20 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exit.xml",
         "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\src\\main\\res\\layout\\activity_exit.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_text_input_password_icon.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_menu_item.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_layout_tab_icon.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_item_separator.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
@@ -500,59 +764,39 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hotel_info.xml",
-        "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\src\\main\\res\\layout\\activity_hotel_info.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\399727c2984454811c15770cadeb942a57162666\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\db786a399ff9e733f409e7cd5de0350826300009\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_custom_big.xml"
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location_picker.xml",
         "source": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\src\\main\\res\\layout\\activity_location_picker.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\TraffickCamV1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\6fbb049d0221b57ce5ef1588c547385c9a7e8ca9\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\Projects\\AndroidStudioProjects\\_traffickcam\\v3\\TraffickCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_webview.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\83d1f05883a30279f30813cbe2059578179bda6e\\output\\res\\layout\\amu_webview.xml"
     }
 ]

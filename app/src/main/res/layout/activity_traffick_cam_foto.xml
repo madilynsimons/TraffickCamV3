@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.owner.traffickcam.TraffickCamFotoActivity">
+    tools:context="com.simons.owner.traffickcam.TraffickCamFotoActivity">
 
     <io.fotoapparat.view.CameraView
         android:id="@+id/camera_view"
@@ -25,16 +25,12 @@
         android:onClick="takePictureOnClick"
         app:srcCompat="@android:drawable/ic_menu_camera" />
 
-    <TextView
-        android:id="@+id/no_permission"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal|bottom"
-        android:layout_marginBottom="200dp"
-        android:text="No Camera permission granted."
-        android:textSize="20sp"
-        android:visibility="gone"
-        tools:visibility="visible" />
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="416dp"
+        android:background="@android:color/transparent"
+        android:src="@mipmap/ic_launcher" />
 
 
 </FrameLayout>
