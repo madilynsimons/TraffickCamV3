@@ -48,9 +48,10 @@
       <file leaf-file-name="TraffickCamFotoActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simons/owner/traffickcam/TraffickCamFotoActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="263" column="30" selection-start-line="263" selection-start-column="30" selection-end-line="263" selection-end-column="30" />
+            <state relative-caret-position="306">
+              <caret line="63" column="31" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
               <folding>
+                <element signature="method#onCreate#0;class#TraffickCamFotoActivity#0" expanded="false" />
                 <element signature="method#onStart#0;class#TraffickCamFotoActivity#0" expanded="false" />
                 <element signature="method#onStop#0;class#TraffickCamFotoActivity#0" expanded="false" />
                 <element signature="method#getCameraPermission#0;class#TraffickCamFotoActivity#0" expanded="false" />
@@ -58,6 +59,8 @@
                 <element signature="method#printNextInstruction#0;class#TraffickCamFotoActivity#0" expanded="false" />
                 <element signature="method#takePictureOnClick#0;class#TraffickCamFotoActivity#0" expanded="false" />
                 <element signature="method#savePicture#0;class#TraffickCamFotoActivity#0" expanded="false" />
+                <element signature="method#makeBitmaps#0;class#TraffickCamFotoActivity#0" expanded="false" />
+                <element signature="method#makeStencil#0;class#TraffickCamFotoActivity#0" expanded="false" />
                 <element signature="method#exit#0;class#TraffickCamFotoActivity#0" expanded="false" />
               </folding>
             </state>
@@ -2708,7 +2711,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1288" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29809976" sideWeight="0.48120302" order="12" side_tool="false" content_ui="tabs" />
@@ -2779,7 +2782,7 @@
           <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="41" />
+      <option name="time" value="42" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -2975,9 +2978,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simons/owner/traffickcam/TraffickCamFotoActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="263" column="30" selection-start-line="263" selection-start-column="30" selection-end-line="263" selection-end-column="30" />
+        <state relative-caret-position="306">
+          <caret line="63" column="31" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
           <folding>
+            <element signature="method#onCreate#0;class#TraffickCamFotoActivity#0" expanded="false" />
             <element signature="method#onStart#0;class#TraffickCamFotoActivity#0" expanded="false" />
             <element signature="method#onStop#0;class#TraffickCamFotoActivity#0" expanded="false" />
             <element signature="method#getCameraPermission#0;class#TraffickCamFotoActivity#0" expanded="false" />
@@ -2985,6 +2989,8 @@
             <element signature="method#printNextInstruction#0;class#TraffickCamFotoActivity#0" expanded="false" />
             <element signature="method#takePictureOnClick#0;class#TraffickCamFotoActivity#0" expanded="false" />
             <element signature="method#savePicture#0;class#TraffickCamFotoActivity#0" expanded="false" />
+            <element signature="method#makeBitmaps#0;class#TraffickCamFotoActivity#0" expanded="false" />
+            <element signature="method#makeStencil#0;class#TraffickCamFotoActivity#0" expanded="false" />
             <element signature="method#exit#0;class#TraffickCamFotoActivity#0" expanded="false" />
           </folding>
         </state>
